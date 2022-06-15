@@ -1,0 +1,45 @@
+@charset "UTF-8";
+body{
+    /*background-image:url(../image/_106553081_forbbconly.jpg);*/
+    background-color: blueviolet;
+    font-family: SimSun;
+    line-height: 1.865;
+}
+h1,h2{
+    color:aquamarine
+
+}
+p,a{
+    color:crimson;
+    font-size: 40px;
+}
+ul{
+    list-style-type: none;
+}
+.manhattancafe{
+    display: flex;
+    column-gap: 20px;
+}
+.agnestachyon{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.tatatatata{
+    display: flex;
+
+    justify-content: center;
+}
+.tititititi{
+    width: 80%;
+}
+.tututututu{
+    width: 100%;
+}
+.tetetetete{
+    background-color: blue;
+}
+.tototototo{
+    text-align: center;
+    font-size: medium;
+}
