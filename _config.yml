@@ -6,13 +6,13 @@ timezone: Asia/Tokyo
 # GitHub Pages settings:
 # User/Organization site: https://your-name.github.io -> baseurl: ""
 # Project site: https://your-name.github.io/repository-name -> baseurl: "/repository-name"
-url: "https://your-name.github.io"
+url: "https://atyuyaya.github.io"
 baseurl: ""
 
 author:
   name: "Your Name"
   email: ""
-  github: "your-github-name"
+  github: "atyuyaya"
   x: ""
 
 permalink: /notes/:title/

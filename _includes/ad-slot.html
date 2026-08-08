@@ -1,0 +1,8 @@
+{% if site.adsense.client %}
+  <!-- Add Google AdSense code here after setting adsense.client in _config.yml. -->
+{% else %}
+  <aside class="ad-slot" aria-label="広告枠" data-ad-slot="{{ include.label | default: 'default' }}">
+    <span>Advertisement</span>
+  </aside>
+{% endif %}
+
