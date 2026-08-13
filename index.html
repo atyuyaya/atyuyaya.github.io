@@ -1,59 +1,22 @@
 ---
 layout: default
-title: Home
+title: Blog / Notes
 description: "プロフィール、制作物、ブログ・技術メモをまとめる個人サイトです。"
 ---
 
-<section class="intro" aria-labelledby="intro-title">
-  <div class="intro__copy">
-    <p class="eyebrow">Personal site and technical notes</p>
-    <h1 id="intro-title">Your Name</h1>
-    <p class="lead">
-      ソフトウェア開発、学習メモ、制作物を静かに整理していくための個人サイトです。
-      日々試したことや、あとで参照したい技術メモを記事として残します。
-    </p>
+<section class="home-hero" aria-labelledby="home-title">
+  <div>
+    <p class="eyebrow">Blog / Technical Notes</p>
+    <h1 id="home-title">試したこと、詰まったこと、直したこと。</h1>
+    <p class="lead">PC設定や開発まわりのメモを、あとから自分でも読み返せるように残しています。</p>
   </div>
-  <aside class="profile-panel" aria-label="プロフィール概要">
-    <img class="profile-panel__image" src="{{ '/assets/og-image.png' | relative_url }}" alt="Your Name Tech Notesのプレビュー画像" loading="lazy">
-    <dl>
-      <div>
-        <dt>Focus</dt>
-        <dd>Web development / Tools / Learning</dd>
-      </div>
-      <div>
-        <dt>Location</dt>
-        <dd>Japan</dd>
-      </div>
-      <div>
-        <dt>Status</dt>
-        <dd>Building and writing in public</dd>
-      </div>
-    </dl>
-  </aside>
+  <a class="hero-link" href="{{ '/blog/' | relative_url }}">記事一覧</a>
 </section>
 
-<section class="section-grid" aria-label="サイト概要">
-  <article class="feature-card">
-    <h2>About</h2>
-    <p>自己紹介、興味のある分野、扱っている技術をまとめます。</p>
-    <a href="{{ '/about/' | relative_url }}">Aboutを見る</a>
-  </article>
-  <article class="feature-card">
-    <h2>Blog / Notes</h2>
-    <p>Markdownで追加した記事を、新しい順に一覧できます。</p>
-    <a href="{{ '/blog/' | relative_url }}">記事一覧を見る</a>
-  </article>
-  <article class="feature-card">
-    <h2>Projects</h2>
-    <p>制作物、実験、学習で取り組んだプロジェクトを整理します。</p>
-    <a href="{{ '/projects/' | relative_url }}">Projectsを見る</a>
-  </article>
-</section>
-
-<section class="content-section" aria-labelledby="latest-notes">
+<section class="content-section latest-section" aria-labelledby="latest-notes">
   <div class="section-heading">
-    <p class="eyebrow">Latest</p>
     <h2 id="latest-notes">最近の記事</h2>
+    <a href="{{ '/blog/' | relative_url }}">すべて見る</a>
   </div>
 
   <div class="post-list">
@@ -65,6 +28,12 @@ description: "プロフィール、制作物、ブログ・技術メモをまと
       </article>
     {% endfor %}
   </div>
+</section>
+
+<section class="quick-links" aria-label="サイト内リンク">
+  <a href="{{ '/about/' | relative_url }}">About</a>
+  <a href="{{ '/projects/' | relative_url }}">Projects</a>
+  <a href="{{ '/links/' | relative_url }}">Links</a>
 </section>
 
 {% include ad-slot.html label="home-inline" %}

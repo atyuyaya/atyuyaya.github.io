@@ -1,4 +1,4 @@
-title: "Your Name | Tech Notes"
+title: "Tech Notes"
 description: "プロフィール、制作物、ブログ・技術メモをまとめる個人サイトです。"
 lang: ja-JP
 timezone: Asia/Tokyo
@@ -10,7 +10,7 @@ url: "https://atyuyaya.github.io"
 baseurl: ""
 
 author:
-  name: "Your Name"
+  name: ""
   email: ""
   github: "atyuyaya"
   x: ""
@@ -24,7 +24,7 @@ defaults:
       type: "posts"
     values:
       layout: post
-      author: "Your Name"
+      author: ""
   - scope:
       path: ""
     values:
