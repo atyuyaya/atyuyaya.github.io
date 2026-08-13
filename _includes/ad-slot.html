@@ -1,8 +1,15 @@
-{% if site.adsense.client %}
-  <!-- Add Google AdSense code here after setting adsense.client in _config.yml. -->
-{% else %}
-  <aside class="ad-slot" aria-label="広告枠" data-ad-slot="{{ include.label | default: 'default' }}">
-    <span>Advertisement</span>
+{% assign slot_key = include.label | default: "default" | replace: "-", "_" %}
+{% assign slot_id = site.adsense.slots[slot_key] %}
+{% if site.adsense.client and slot_id %}
+  <aside class="ad-slot ad-slot--active" aria-label="広告">
+    <ins class="adsbygoogle"
+      style="display:block"
+      data-ad-client="{{ site.adsense.client }}"
+      data-ad-slot="{{ slot_id }}"
+      data-ad-format="auto"
+      data-full-width-responsive="true"></ins>
+    <script>
+      (adsbygoogle = window.adsbygoogle || []).push({});
+    </script>
   </aside>
 {% endif %}
-

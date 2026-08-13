@@ -35,6 +35,10 @@ analytics:
 
 adsense:
   client: ""
+  slots:
+    home_inline: ""
+    post_top: ""
+    post_bottom: ""
 
 exclude:
   - Gemfile
