@@ -34,7 +34,7 @@ analytics:
   google_id: ""
 
 adsense:
-  client: ""
+  client: "ca-pub-3269956574922124"
   slots:
     home_inline: ""
     post_top: ""
