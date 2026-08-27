@@ -1,0 +1,362 @@
+{
+  "EV.3.3.3": {
+    "title": "EV.3.3.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 95,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "EV.8.6": {
+    "title": "EV.8.6",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 110,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "EV.8.10.4": {
+    "title": "EV.8.10.4",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 112,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "EV.10.7": {
+    "title": "EV.10.7",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 114,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "F.2.1": {
+    "title": "F.2.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 27,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "F.4.2": {
+    "title": "F.4.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 30,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "F.5.6": {
+    "title": "F.5.6",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 34,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "F.8.8.7": {
+    "title": "F.8.8.7",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 51,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IC.9": {
+    "title": "IC.9",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 92,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.1": {
+    "title": "IN.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 117,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.2": {
+    "title": "IN.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 117,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.2.1-IN.2.6": {
+    "title": "IN.2.1-IN.2.6",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 117,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.3": {
+    "title": "IN.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 118,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.4": {
+    "title": "IN.4",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 118,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.5": {
+    "title": "IN.5",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 118,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.5.1": {
+    "title": "IN.5.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 118,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.5.2": {
+    "title": "IN.5.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 119,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.5.3": {
+    "title": "IN.5.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 119,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.6": {
+    "title": "IN.6",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 119,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.6.1": {
+    "title": "IN.6.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 119,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.6.2": {
+    "title": "IN.6.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 119,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.6.3": {
+    "title": "IN.6.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 120,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.7": {
+    "title": "IN.7",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 120,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.8": {
+    "title": "IN.8",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 120,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.9": {
+    "title": "IN.9",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 120,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.9.1": {
+    "title": "IN.9.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 121,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.9.2": {
+    "title": "IN.9.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 121,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.10": {
+    "title": "IN.10",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 121,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.10.1": {
+    "title": "IN.10.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 121,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.10.2": {
+    "title": "IN.10.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 121,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.11": {
+    "title": "IN.11",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 122,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.12": {
+    "title": "IN.12",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 122,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.12.1": {
+    "title": "IN.12.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 122,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.12.2": {
+    "title": "IN.12.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 122,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.12.4": {
+    "title": "IN.12.4",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 123,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.12.5": {
+    "title": "IN.12.5",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 123,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.12.6": {
+    "title": "IN.12.6",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 123,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.12.7": {
+    "title": "IN.12.7",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 123,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.13": {
+    "title": "IN.13",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 123,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.14": {
+    "title": "IN.14",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 124,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.14.2": {
+    "title": "IN.14.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 124,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.14.3": {
+    "title": "IN.14.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 124,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.16": {
+    "title": "IN.16",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 125,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "IN.17": {
+    "title": "IN.17",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 126,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.1": {
+    "title": "T.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 58,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.1.1": {
+    "title": "T.1.1",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 58,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.1.2": {
+    "title": "T.1.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 59,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.1.3": {
+    "title": "T.1.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 59,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.1.6": {
+    "title": "T.1.6",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 60,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.1.7": {
+    "title": "T.1.7",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 61,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.1.8": {
+    "title": "T.1.8",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 61,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.2.2-T.2.7": {
+    "title": "T.2.2-T.2.7",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 62,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.3.3": {
+    "title": "T.3.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 68,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.5.5": {
+    "title": "T.5.5",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 72,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.7": {
+    "title": "T.7",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 74,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "T.8.2": {
+    "title": "T.8.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 76,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "V.4.3.2": {
+    "title": "V.4.3.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 24,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "VE.2.2": {
+    "title": "VE.2.2",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 80,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "VE.2.3": {
+    "title": "VE.2.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 80,
+    "source": "Formula SAE 2027 Draft Rules"
+  },
+  "VE.3": {
+    "title": "VE.3",
+    "file": "references/fsae-2027-draft-rules.pdf",
+    "page": 81,
+    "source": "Formula SAE 2027 Draft Rules"
+  }
+}
