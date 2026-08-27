@@ -358,5 +358,245 @@
     "file": "references/fsae-2027-draft-rules.pdf",
     "page": 81,
     "source": "Formula SAE 2027 Draft Rules"
+  },
+  "J2026-GR-01": {
+    "title": "J2026-GR-01",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 1,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-V-01": {
+    "title": "J2026-V-01",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 1,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-F-02": {
+    "title": "J2026-F-02",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 1,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-F-07": {
+    "title": "J2026-F-07",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 2,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-F-09": {
+    "title": "J2026-F-09",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 3,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-F-10": {
+    "title": "J2026-F-10",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 3,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-F-12": {
+    "title": "J2026-F-12",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 3,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-T-01": {
+    "title": "J2026-T-01",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 4,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-T-02": {
+    "title": "J2026-T-02",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 4,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-T-03": {
+    "title": "J2026-T-03",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 4,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-T-06": {
+    "title": "J2026-T-06",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 5,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-T-07": {
+    "title": "J2026-T-07",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 5,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-VE-03": {
+    "title": "J2026-VE-03",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 5,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-VE-05": {
+    "title": "J2026-VE-05",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 6,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-VE-06": {
+    "title": "J2026-VE-06",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 6,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-VE-07": {
+    "title": "J2026-VE-07",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 6,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IC-02": {
+    "title": "J2026-IC-02",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 6,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IC-03": {
+    "title": "J2026-IC-03",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 6,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IC-04": {
+    "title": "J2026-IC-04",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 6,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IC-05": {
+    "title": "J2026-IC-05",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 6,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-03": {
+    "title": "J2026-EV-03",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 7,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-04": {
+    "title": "J2026-EV-04",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 7,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-05": {
+    "title": "J2026-EV-05",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 7,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-06": {
+    "title": "J2026-EV-06",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 7,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-07": {
+    "title": "J2026-EV-07",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 7,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-08": {
+    "title": "J2026-EV-08",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 7,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-09": {
+    "title": "J2026-EV-09",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 8,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-10": {
+    "title": "J2026-EV-10",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 8,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-11": {
+    "title": "J2026-EV-11",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 8,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-12": {
+    "title": "J2026-EV-12",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 8,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-EV-13": {
+    "title": "J2026-EV-13",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 8,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-01": {
+    "title": "J2026-IN-01",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-02": {
+    "title": "J2026-IN-02",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-03": {
+    "title": "J2026-IN-03",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-04": {
+    "title": "J2026-IN-04",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-05": {
+    "title": "J2026-IN-05",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-06": {
+    "title": "J2026-IN-06",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-07": {
+    "title": "J2026-IN-07",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-08": {
+    "title": "J2026-IN-08",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
+  },
+  "J2026-IN-09": {
+    "title": "J2026-IN-09",
+    "file": "references/fsaej-2026-local-rules-4th.pdf",
+    "page": 9,
+    "source": "2026 Formula SAE Japan Local Rules (4th Edition)"
   }
 }
